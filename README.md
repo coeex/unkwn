@@ -1,3 +1,3 @@
 # unkwn
 
-Lot's of files redacted in order to prevent people from re-making unkwn
+Scripts have been removed. Only the file structure is available.
