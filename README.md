@@ -26,7 +26,7 @@ You could get followed by our bots
 
 - Realistic cookies
 
-I succesfully evaded "Kasada" with a bot called "Kasane". It was a google extension that would calculate and return a correct checksum for Kasada and thus evade it. It was capable of creating a 100 accounts in one hour. Each account had a picture and a description that was randomly generated and never repeated.
+I succesfully evaded "Kasada" with a bot called "Kasane" which I wrote. It was a google extension that would calculate and return a correct checksum for Kasada and thus evade it. It was capable of creating a 100 accounts in one hour. Each account had a picture and a description that was randomly generated and never repeated.
 
 - 1Pixel exploit
 
