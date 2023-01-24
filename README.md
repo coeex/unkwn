@@ -1,6 +1,6 @@
 # unkwn
 
-### Scripts have been removed. Only the file structure is available due to the sale agreement
+### All files are encrypted with my own custom encryption. Feel free to try and break it.
 
 ## What is unkwn?
 
