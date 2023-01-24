@@ -1,6 +1,6 @@
 # unkwn
 
-### Scripts have been removed. Only the file structure is available. 
+### Scripts have been removed. Only the file structure is available due to the sale agreement
 
 ## What is unkwn?
 
