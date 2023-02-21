@@ -4,7 +4,7 @@
 
 ## What is unkwn?
 
-Unknwn was a service I ran for some time and later sold it to some people on the internet who shall remain anonymous as per the contract.
+It was a freelance project I did.
 
 It had the most advanced [Twitch view bot](https://github.com/coeex/YaBoi-V2) which had the following features:
 
